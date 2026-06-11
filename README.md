@@ -36,7 +36,7 @@ Data Days is built by the community, for the community - and this is just one mo
 
 ## Brand And Usage Note
 
-These assets are provided for community sharing and event promotion. Please keep visuals in their original form and avoid modifying official logos.
+These assets are provided for community sharing and event promotion. They are not official Microsoft product images, icons, or logos, and were created for community-led campaigns.
 
 ---
 
